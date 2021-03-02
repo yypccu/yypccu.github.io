@@ -33,7 +33,7 @@ Minimal Mistakes 的作者將[使用文件](https://mmistakes.github.io/minimal-
 1. 點選 Minimal Mistakes 的 [Repository Template](https://github.com/mmistakes/mm-github-pages-starter/generate)
 2. 輸入 Repository 的名稱。(注意：名稱必須要是 \[username\].github.io ，GitHhub 才會將其辨識為 GitHub Page 託管網站並啟用 GitHub Page 的功能)
 
-<img src="/assets/images/Screen Shot 2021-02-13 at 4.53.02 PM.png">
+<img src="/assets/images/2021-02-13/fill_in_repo_name.png">
 
 {:start="3"}
 3. 把剛建好的 Repository clone 下來

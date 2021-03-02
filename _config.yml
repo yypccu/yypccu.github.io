@@ -16,10 +16,10 @@
 title: YYP's Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  This is a web site about Android development, embedded system, and other stuffs
+  that i have learned.
+  這是一個關於安卓開發、嵌入式系統以及其他我學過的東西的網站
+twitter_username: yyp_dev
 github_username: yypccu
 minimal_mistakes_skin: default
 search: true
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "YYP"
-  avatar : # "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Software Developer👋. Especially in Android📱 and Embedded System📟 applications."
   links:
     - label: "Website"
@@ -67,7 +67,7 @@ author:
       url: "https://yypccu.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: # "https://twitter.com/"
+      url: "https://twitter.com/dev_yyp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yypccu"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: # "https://twitter.com/"
+      url:  "https://twitter.com/dev_yyp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yypccu"
